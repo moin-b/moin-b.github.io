@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.shm.ourHome",
+        "sha256_cert_fingerprints": ["B8:51:43:3D:11:AA:CD:BF:4A:77:11:10:47:9C:6D:BD:71:0F:F9:5F:D9:D0:6B:A8:D6:39:4B:4B:43:F9:3A:37"]
+      }
+    }]
